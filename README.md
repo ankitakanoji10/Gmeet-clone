@@ -4,10 +4,12 @@ The GMeet Clone project is a web-based application developed using Node.js,Expre
 ## Features
 * Create unique meeting links, people with meeting link or unique meeting code that is generated using **uuid** can join the meeting room.
 * Added user authentication using **Google OAuth 2.0**.
-* Users can chat on a chatbox that stays active during the whole meeting.
+* Users can chat using a real-time chatbox that stays active during the whole meeting.
+* Facility to mute/unmute, turn video on/off, and to leave meeting for any user.
+* Multiple rooms can be created and used simultaneously.
 
 ## Tech Stack
-* Client : HTML, CSS, JavaScript
+* Client : HTML, CSS, JavaScript, Bootstrap
 * Server : Node.js , Express.js
 * Libraries : Socket.io , Peer.js, WebRTC
 
