@@ -9,19 +9,24 @@ The GMeet Clone project is a web-based application developed using Node.js,Expre
 ## Tech Stack
 * Client : HTML, CSS, JavaScript
 * Server : Node.js , Express.js
+* Libraries : Socket.io , Peer.js, WebRTC
 
-Home Page
+## Demonstration Video
+https://www.youtube.com/watch?v=A5MHy0tYIpY
+
+
+### Home Page
 ![Screenshot 2023-07-05 222903](https://github.com/ankitakanoji10/Gmeet-clone/assets/95422118/2c96be23-ee38-44ce-8824-0d253a464ca6)
 
 
-User Authentication page
+### User Authentication page
 ![Screenshot 2023-07-05 223020](https://github.com/ankitakanoji10/Gmeet-clone/assets/95422118/9adcb86a-af64-48d6-9970-afc79e3a9586)
 
 
-Meeting room 
+### Meeting room 
 ![download](https://github.com/ankitakanoji10/Gmeet-clone/assets/95422118/fea1619a-d4c4-4f87-a730-8453cb540557)
 
-Contributors 
+## Contributors 
 * @Arnavai
 * @ankitakanoji10
 
