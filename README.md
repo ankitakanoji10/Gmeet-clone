@@ -1,5 +1,5 @@
 # Gmeet-clone
-The GMeet Clone project is a web-based application developed using Node.js,Express.js,  socket.io, and WebRTC technologies. 
+The GMeet Clone project is a web-based video conferencing application with real-time video and chat feature developed using Node.js, Express.js,  Socket.io, and WebRTC. 
 
 ## Features
 * Create unique meeting links, people with meeting link or unique meeting code that is generated using **uuid** can join the meeting room.
