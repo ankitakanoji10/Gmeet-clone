@@ -8,7 +8,7 @@ The GMeet Clone project is a web-based video conferencing application with real-
 * Facility to mute/unmute, turn video on/off, and to leave meeting for any user.
 * Multiple rooms can be created and used simultaneously.
 
-## Tech Stack
+## Tech Stacks
 * Client : HTML, CSS, JavaScript, Bootstrap
 * Server : Node.js , Express.js
 * Libraries : Socket.io , Peer.js, WebRTC
